@@ -10,6 +10,5 @@ def prying_into_the_method
 end
 
 prying_into_the_method
-ruby lib/pry_is_awesome.rb
-this_variable_hasnt_been_interpreted_yet
+
 
